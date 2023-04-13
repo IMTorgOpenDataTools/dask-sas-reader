@@ -10,6 +10,7 @@ pandas = "*"
 numpy = "*"
 pytest = "*"
 build = "*"
+twine = "*"
 
 [dev-packages]
 
